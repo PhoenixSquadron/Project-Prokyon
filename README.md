@@ -6,10 +6,11 @@ Project Prokyon is still in beta development. Stay tuned for future updates as c
 In the meantime, check out our website: www.phoenixsquadron.concordiashanghai.org and some of our drone swarm code at https://github.com/Shreyas-dotcom/DJI-SwarmKit
 
 
+***
+Researchers: 
+- Marcus Chu 
+- Shreyas Sharma 
 
-Authors: 
-- Shreyas Sharma
-- Marcus Chu
 
 ***
 
