@@ -36,8 +36,8 @@ Execution Procedure:
 # Equipment: 
 
 * Nvidia Jetson Nano (Ubuntu 18.04)
-* T1200 Octacopter
-* Intel D345i
+* ZD850 Hexacopter
+* Intel D345
 * MQ Series gas sensors
 * Rpi A1 LiDAR
 * 1200mhz Telemetry modeule
