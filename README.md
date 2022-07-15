@@ -1,4 +1,4 @@
-# ProjectProkyon[![CI](https://github.com/bitcraze/bitcraze-website/workflows/CI/badge.svg)](https://github.com/bitcraze/bitcraze-website/actions?query=workflow%3ACI)
+# ProjectProkyon[![CI](https://github.com/bitcraze/bitcraze-website/workflows/CI/badge.svg)](https://github.com/PhoenixSquadron/Project-Prokyon/actions)
 
 
 Please Note: 
